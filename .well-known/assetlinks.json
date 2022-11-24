@@ -1,12 +1,9 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "dk.sallinggroup.foetexhd",
-      "sha256_cert_fingerprints": [
-        "51:38:43:89:01:05:DF:24:F8:CE:FF:5F:86:7F:CA:94:0F:77:2E:5E:11:DA:ED:6D:45:F0:4F:80:DB:ED:D0:1A"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dk.sallinggroup.foetexhd",
+    "sha256_cert_fingerprints":
+    ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
   }
-]
+}]
